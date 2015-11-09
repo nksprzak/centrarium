@@ -1,17 +1,23 @@
 ---
 layout: post
-title:  "Lovers in Japan"
+title:  "Programs"
 date:   2015-11-08 19:42:59
 author: Nick Kasprzak
-categories: japan
+categories: programming
 tags: lorem ipsum
 cover: assets/t_1.jpg
 ---
 
-Why does Japan always look amazing in pictures? Even if it is some weird hellish landscape post-Fukishima, the Japanese seem to have everything together. Maybe it is there shrewd business practices or crazy porn. Whatever it is I know that Japan is a special flower of a country and I have always wanted to travel there. 
+The importance of programming can not be underestimated. However you shouldn't just be an amateur programmer, you must be an excelllent one. I am going to list what I think will help me become a better programmer. 
 
-If only for a couple weeks, I can imagine taking a bullet train into Tokyo and various areas of Japan. Meeting locales, seeing the sites and eating all the sushi that I want. At night you could hit up the clubs and impress all the ladies as a blonde foreigner. All is just dreams though. 
+## Rules
 
-To travel is to live because every experience is a new one. Fresh memories to remisnice in your later years as fond. Who you spend this with is everything in life. To find someone special is a tiring task, but maybe if I try hard enough I could see clearly enough to grab someone. 
+1. Write code at least once a day
+2. Update my blog/resume every day.
+3. Update resume and apply 
+4. Practice Java and C++
+5. Review major concepts
+6. Prepare for post-graduate life
+7. 
 
-There seems to be a disconnect between America and Americans but never with Japan. The people are the land. Quiet, reserved, beautiful. Beatuy is only beatiful because it is fleeting. 
+More to come. Hopefully the quality will start to increase. 
