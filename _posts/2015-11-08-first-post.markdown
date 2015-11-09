@@ -5,7 +5,7 @@ date:   2015-11-08 18:10:59
 author: Nick Kasprzak
 categories: Jekyll
 tags:	jekyll welcome 
-cover:  "assets/t (2).jpg"
+cover:  "assets/t_2.jpg"
 ---
 
 What should someone say in there first blog post? I think it depends on what is on your mind and what you want to say. 
