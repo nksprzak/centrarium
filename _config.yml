@@ -65,32 +65,25 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: nksprzak
+    url: https://twitter.com/nksprzak
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url: 
+    username: nick.kasprzak
+    url: http://www.facebook.com/nick.kasprzak
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: nksprzak
+    url: https://github.com/nksprzak
     desc: Fork me on GitHub
     share: false
-
-  - name: LinkedIn
-    icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    desc: Connect with me on LinkedIn
-    share: true
-
+    
   - name: Google+
     icon: google-plus
     username: 
