@@ -18,6 +18,5 @@ The importance of programming can not be underestimated. However you shouldn't j
 4. Practice Java and C++
 5. Review major concepts
 6. Prepare for post-graduate life
-7. 
 
 More to come. Hopefully the quality will start to increase. 
