@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Links to Ppaers and Good Web Articles"
+title:  "Links to Papers and Good Web Articles"
 date:   2015-11-10 00:03:59
 author: Nick Kasprzak
 categories: general
