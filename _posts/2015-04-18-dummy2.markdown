@@ -26,3 +26,5 @@ cover: assets/t_4.jpg
 [Stock Guide](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options)
 
 [Front end speed](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
+
+[Python Magic](http://www.rafekettler.com/magicmethods.html)
