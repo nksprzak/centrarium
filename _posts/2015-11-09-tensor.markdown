@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "tensor"
+title:  "Google Tensor"
 date:   2015-11-09 23:30:00
 author: Nick Kasprzak
 categories: AI
