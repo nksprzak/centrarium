@@ -21,5 +21,8 @@ cover: assets/t_4.jpg
 
 ## How To
 
-[1](http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html)
+[JavaScript Developer](http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html)
 
+[Stock Guide](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options)
+
+[Front end speed](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
