@@ -4,6 +4,7 @@ title:  "Links to Ppaers and Good Web Articles"
 date:   2015-11-10 00:03:59
 author: Nick Kasprzak
 categories: general
+cover: assets/t_4.jpg
 ---
 
 [Tech Interview Guide](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
@@ -15,6 +16,8 @@ categories: general
 [JavaScript](http://eloquentjavascript.net/)
 
 [Strong type vs. Strong Testing](https://docs.google.com/document/d/1aXs1tpwzPjW9MdsG5dI7clNFyYayFBkcXwRDo-qvbIk/preview)
+
+[linux-gate.so](http://www.trilithium.com/johan/2005/08/linux-gate/)
 
 ## How To
 
