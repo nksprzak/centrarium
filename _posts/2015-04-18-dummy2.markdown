@@ -19,6 +19,8 @@ cover: assets/t_4.jpg
 
 [linux-gate.so](http://www.trilithium.com/johan/2005/08/linux-gate/)
 
+[Papers List](https://github.com/papers-we-love/papers-we-love)
+
 ## How To
 
 [JavaScript Developer](http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html)
