@@ -8,9 +8,15 @@ categories: general
 
 [Tech Interview Guide](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 
-[days long](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+[Days Long](http://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
 
-[python libraries](http://doda.co/7-python-libraries-you-should-know-about/)
+[Python Libraries](http://doda.co/7-python-libraries-you-should-know-about/)
 
 [JavaScript](http://eloquentjavascript.net/)
+
+[Strong type vs. Strong Testing](https://docs.google.com/document/d/1aXs1tpwzPjW9MdsG5dI7clNFyYayFBkcXwRDo-qvbIk/preview)
+
+## How To
+
+[1](http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html)
 
