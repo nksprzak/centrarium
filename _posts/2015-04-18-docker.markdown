@@ -10,6 +10,6 @@ Today in class my professor mentioned a program that allows you to build and run
 
 Docker is not a virtual machine thoough, it is a container. [Here](https://serversforhackers.com/getting-started-with-docker/) is a good introduction to Docker with some basic code examples. 
 
-Another good article I found [here](http://blog.shrikrishnaholla.in/post/2014/01/12/docker-the-good-parts/).
+Another good article I found [here](http://blog.shrikrishnaholla.in/post/2014/01/12/docker-the-good-parts/). One about [speed](http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment)
 
 
