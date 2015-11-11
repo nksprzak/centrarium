@@ -23,6 +23,8 @@ cover: assets/t_4.jpg
 
 [Great Documentation](https://jacobian.org/writing/great-documentation/)
 
+[Front End](https://gist.github.com/dypsilon/5819504)
+
 ## How To
 
 [JavaScript Developer](http://blog.ustunozgur.com/javascript/programming/books/videos/2015/06/17/how_to_be_a_great_javascript_software_developer.html)
