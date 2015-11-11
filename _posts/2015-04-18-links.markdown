@@ -30,3 +30,5 @@ cover: assets/t_4.jpg
 [Front end speed](http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html)
 
 [Python Magic](http://www.rafekettler.com/magicmethods.html)
+
+[RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
