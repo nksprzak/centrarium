@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Docker"
+date:   2015-11-11 00:11:00
+author: Nick Kasprzak
+categories: docker
+---
+
+Today in class my professor mentioned a program that allows you to build and run operating systems fast. Faster than normal virtual machine software because of Docker uses a cache of the machine. 
+
+Docker is not a virtual machine thoough, it is a container. [Here](https://serversforhackers.com/getting-started-with-docker/) is a good introduction to Docker with some basic code examples. 
+
+Another good article I found [here](http://blog.shrikrishnaholla.in/post/2014/01/12/docker-the-good-parts/).
+
+
