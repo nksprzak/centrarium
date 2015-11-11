@@ -23,7 +23,7 @@ cover: assets/t_4.jpg
 
 [Great Documentation](https://jacobian.org/writing/great-documentation/)
 
-[Front End](https://gist.github.com/dypsilon/5819504)
+[Front End](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ## How To
 
