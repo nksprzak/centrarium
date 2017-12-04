@@ -1,0 +1,10 @@
+
+---
+layout: post
+title:  "2017"
+date:   2017-12-04 00:14:43
+author: Nick Kasprzak
+categories: computer science
+---
+
+Like to comment on some interesting things that I have noticed recently. 
